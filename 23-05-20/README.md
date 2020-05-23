@@ -1,2 +1,2 @@
-# Daily-Status
-Include day wise report of online IA test, coding challenges and certification course
+  # date 23-05-20
+which includes all the datails of certification course,online course and IA test
